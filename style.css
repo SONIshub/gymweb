@@ -1,0 +1,10 @@
+#img1{
+    border-radius: 50%;
+}
+#feature{
+    display:block;
+    justify-content: center;
+    text-align: center;
+    color: red;
+    
+}
